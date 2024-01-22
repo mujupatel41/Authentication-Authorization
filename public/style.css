@@ -1,0 +1,16 @@
+.box{
+    display: flex;
+    justify-content: center;
+}
+
+.box div img{
+    height: 200px;
+    width: 200px;
+}
+.box div:nth-child(1){
+    margin-right: 50px;
+}
+
+h1{
+    text-align: center;
+}
